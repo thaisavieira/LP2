@@ -1,0 +1,11 @@
+C:\Users\0030482521011\Desktop\Segundo\Segundo\bin\Debug\Segundo.exe.config
+C:\Users\0030482521011\Desktop\Segundo\Segundo\bin\Debug\Segundo.exe
+C:\Users\0030482521011\Desktop\Segundo\Segundo\bin\Debug\Segundo.pdb
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.csproj.AssemblyReference.cache
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.Form1.resources
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.Properties.Resources.resources
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.csproj.GenerateResource.cache
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.exe
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.pdb
+C:\Users\0030482521011\Desktop\Segundo\Segundo\obj\Debug\Segundo.exe.config
